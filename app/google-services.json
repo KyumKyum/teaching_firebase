@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402676558811",
+    "project_id": "practicing-firebase-db",
+    "storage_bucket": "practicing-firebase-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402676558811:android:68e2d4d02aebf0921155fe",
+        "android_client_info": {
+          "package_name": "com.example.practicingfirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402676558811-jepb85946jvsp42qt8ebuklo851pkl9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNUMBa6rUmcjZK_I3BqXB5ze-f8Qvzb1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402676558811-jepb85946jvsp42qt8ebuklo851pkl9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
